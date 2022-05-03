@@ -17,7 +17,7 @@ Trang chủ Komi
 <p>
 <b>
 <i>
-<a href"=https://thinhhhh.github.io/komisan/">Trang chủ/anime/komi/traller</a>
+<a href="https://thinhhhh.github.io/komisan/">Trang chủ/anime/komi/traller</a>
 </i>
 </b>
 </p>

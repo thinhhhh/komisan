@@ -1,10 +1,10 @@
 <html>
 <title>
-Komi
+Trang chủ Komi
 </title>
 <head>
 <h3 style="font-family : arial; font-size : 40px; color : #09C; background-image:url(http://image.lag.vn/upload/news/22/04/08/spoiler-komi-san-wa-comyushou-desu-season-2-tap-2-2_XNTY.jpg) ;backgroud-size:100px">
-<a href="https://www.google.com/search?q=Komi&rlz=1C1FHFK_viVN1003VN1003&oq=Komi&aqs=chrome..69i57j46i131i433i512j0i131i433i512j69i59l2j69i61j69i60l2.7071j0j1&sourceid=chrome&ie=UTF-8">Komi San</a>
+<a href="https://www.google.com/search?q=Komi&rlz=1C1FHFK_viVN1003VN1003&oq=Komi&aqs=chrome..69i57j46i131i433i512j0i131i433i512j69i59l2j69i61j69i60l2.7071j0j1&sourceid=chrome&ie=UTF-8">Xin Hãy Tìm Kiếm Komi ở đây</a>
 </h3>
 </head>
 <body background="https://image.lag.vn/upload/news/21/12/10/spoiler-anime-kimi-san-wa-comyushou-desu-tap-11-2_HXJW.jpg">

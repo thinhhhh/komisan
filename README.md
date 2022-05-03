@@ -17,7 +17,7 @@ Trang chủ Komi
 <p>
 <b>
 <i>
-Trang chủ/anime/komi/traller
+<a href"=https://thinhhhh.github.io/komisan/">Trang chủ/anime/komi/traller</a>
 </i>
 </b>
 </p>
@@ -27,9 +27,6 @@ Trang chủ/anime/komi/traller
    <h3>
 <b style="font-family : arial; font-size : 20px ; color : blue">
 facebook của tôi-->
-</h3>
-</p>
-</div>
   <a href="https://www.facebook.com/killer18062003" >Kim Thinhh</a>
  <a href="https://www.facebook.com/killer18062003"><img src="https://64.media.tumblr.com/1670fcd2153163e08531711e8fe62b05/753af7453b9bed9a-c6/s400x600/0bf54663fb349d2edf4daa3a19a3d26835cc6793.gifv" width="400px" height="400px"/></a>
 <center>
@@ -39,5 +36,3 @@ facebook của tôi-->
          </p>
    </b>
    <center>
-</body>
-</html>

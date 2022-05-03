@@ -30,7 +30,7 @@ facebook của tôi-->
 </b>
   <a href="https://www.facebook.com/killer18062003" >Kim Thinhh</a>
   <h3>
-  <img src="https://i.pinimg.com/originals/cc/d9/52/ccd95291a143be963a8aed047f72b20e.jpg" height"auto" width="100px">
+ <gifv src="https://64.media.tumblr.com/1670fcd2153163e08531711e8fe62b05/753af7453b9bed9a-c6/s400x600/0bf54663fb349d2edf4daa3a19a3d26835cc6793.gifv" width="1400px" height="100px"/>
 </p>
 </div>
 </body>

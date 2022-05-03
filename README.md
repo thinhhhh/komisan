@@ -27,7 +27,10 @@ Trang chủ/anime/komi/traller
 <b style="font-family : arial; font-size : 20px ; color : blue">
 facebook của tôi-->
 </b>
-<a href="https://www.facebook.com/killer18062003" ><img src="https://i.pinimg.com/originals/cc/d9/52/ccd95291a143be963a8aed047f72b20e.jpg" height"auto" width="100px"></a>
+  <h3>
+  <a href="https://www.facebook.com/killer18062003" >Kim Thinhh</a>
+  <h3>
+  <img src="https://i.pinimg.com/originals/cc/d9/52/ccd95291a143be963a8aed047f72b20e.jpg" height"auto" width="100px">
 </p>
 </div>
 </body>
